@@ -1,0 +1,9 @@
+[My Computer]
+My Computer = "157.252.101.249"
+
+[QcRIO]
+QcRIO = "192.168.1.2"
+
+[QEVS]
+QEVS = "192.168.1.3"
+

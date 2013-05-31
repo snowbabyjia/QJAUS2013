@@ -1,0 +1,8 @@
+[My Computer]
+My Computer = "192.168.1.124"
+
+[QcRIO]
+QcRIO = "192.168.1.2"
+
+[QEVS]
+QEVS = "localhost"

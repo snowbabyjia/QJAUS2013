@@ -1,0 +1,13 @@
+READINGS OVER 5 SECONDS FOR EACH MOTOR
+
+0AE28 - ?Q0
+0AEA0 - ?Q1
+Difference: 120 pulses
+
+0AEE5 - ?Q0
+0AE78 - ?Q1
+Difference: 109 pulses
+
+0AE1E - ?Q0
+0AEB9 - ?Q1
+Difference: 155 pulses
